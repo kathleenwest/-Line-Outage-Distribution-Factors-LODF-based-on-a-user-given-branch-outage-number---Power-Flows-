@@ -1,4 +1,8 @@
 # -Line-Outage-Distribution-Factors-LODF-based-on-a-user-given-branch-outage-number---Power-Flows-
+
+Project Blog Article link here: https://portfolio.katiegirl.net/2018/07/31/lineoutagedistributionfactors/
+
+
 The project required the computation of the Line Outage Distribution Factors (LODF) based on a user given branch outage number using the fast-decoupled XB version.  The LODF values were used to approximate the post-contingency branch flows based on a pre-contingency branch flow and the base branch flow before the contingency. The AC power flows were compared with the DC method for the MW and MVA flows.  Source code is provided in the same WinZip file for the functions calculating the LODF values and the approximated post-contingency branch flows.
 
 Conclusions:
